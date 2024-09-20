@@ -1,3 +1,4 @@
-olá mundo
-add linha 3
-add linha 4
+Atualizando arquivo file.txt
+Olá mundo!
+add linha 5
+add linha 6
