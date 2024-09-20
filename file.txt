@@ -1,1 +1,2 @@
-olá mundo
+Atualizando arquivo file.txt
+Olá mundo!
