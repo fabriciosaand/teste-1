@@ -2,3 +2,4 @@ Atualizando arquivo file.txt
 Olá mundo!
 add linha 5
 add linha 6
+linha 4
